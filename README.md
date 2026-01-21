@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/UHD-Botz/UHD-FiletoLinks-Bot?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20By-UHD%20Official-gold?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/Made%20By-UHD%20NETWORK-gold?style=for-the-badge&logo=telegram" />
   <img src="https://img.shields.io/badge/Powered%20By-Pyrogram-2c2c2c?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/MongoDB-Async-brightgreen?style=for-the-badge&logo=mongodb" />
 </p>
@@ -92,7 +92,7 @@ python3 bot.py
 ## 👨‍💻 Developer
 
 - [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/Ankan_Contact_Bot)  
-- [![UHD Official](https://img.shields.io/static/v1?label=UHD&message=Official&color=purple)](https://t.me/UHD_NETWORK)
+- [![UHD NETWORK](https://img.shields.io/static/v1?label=UHD&message=NETWORK&color=purple)](https://t.me/UHD_NETWORK)
 
 ---
 
