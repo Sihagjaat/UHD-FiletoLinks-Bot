@@ -16,17 +16,17 @@ from utils import temp
 async def start_command(client, message):
     await message.reply_text(
         text=(
-            "👋 <b>ʜɪɪ,\n\n🗿 ɪ ᴀᴍ ʟᴀᴛᴇsᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴛᴏ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴊᴜsᴛ sᴇɴᴅ ᴀɴʏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ.\n\n ᴘʟᴇᴀsᴇ ᴜsᴇ & sʜᴀʀᴇ ᴍᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᥙs ᴍᴀᴅᴇ ʙʏ ᴜʜᴅ ʙᴏᴛs™</b> 🔥"
+            "👋 <b>ʜɪɪ,\n\n🗿 ɪ ᴀᴍ ʟᴀᴛᴇsᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ 18+ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴛᴏ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴊᴜsᴛ sᴇɴᴅ ᴀɴʏ 18+ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ..\n\n ᴘʟᴇᴀsᴇ ᴜsᴇ & sʜᴀʀᴇ ᴍᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᥙs ᴍᴀᴅᴇ ʙʏ ᴜʜᴅ ʙᴏᴛs™</b> 🔥"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/UHDBots"),
-                    InlineKeyboardButton("💡 ᴄᴏᴅᴇs", url="https://github.com/UHD-Botz/UHD-FiletoLinks-Bot")
+                    InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/FluxDrives"),
+                    InlineKeyboardButton("💡 ᴄᴏᴅᴇs", url="https://t.me/ContactToAdminToBot")
                 ],
                 [
-                    InlineKeyboardButton("📜 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/UHD_NETWORK"),
-                    InlineKeyboardButton("🌐 ᴀᴇ ᴇɴᴄᴏᴅᴇs", url="https://bit.ly/AEEncodes")
+                    InlineKeyboardButton("📜 LɪɴᴋDᴇBʜᴀɪ ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/linkdebhaioffical"),
+                    InlineKeyboardButton("🌐 Wᴇʙsɪᴛᴇ", url="https://linkdebhai.lovable.app/")
                 ]
             ]
         ),
